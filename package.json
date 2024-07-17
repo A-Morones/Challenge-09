@@ -9,7 +9,7 @@
   "author": "Adalberto Morones",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.6"
+    "inquirer": "^8.2.4"
   },
   "repository": {
     "type": "git",
