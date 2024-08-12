@@ -1,5 +1,5 @@
 {
-  "name": "static-site",
+  "name": "challenge-09",
   "version": "1.0.0",
   "description": "Challenge-09",
   "main": "index.js",
@@ -14,5 +14,9 @@
   "repository": {
     "type": "git",
     "url": "A-Morones"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "challenge"
+  ]
 }
